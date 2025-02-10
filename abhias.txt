@@ -1,0 +1,16 @@
+1>What is java?
+2>Who found out the java and when?
+3>What is the latest version of java and list out the versions present so far.
+4>What all the features of java?
+5>Explain why java is platform independent?
+6>Why do we call java is simple?
+7>Explain architecture of java.
+8>Name different memory types and Explain each of them.
+9>Difference between jdk,jvm, jre.
+10>Name of java compiler and interpreter
+11>Explain the components of JVM.
+12>Command used to compile the java program
+13>Command used to run the java program
+14>What is JIT Compiler?
+15>What is the ClassLoader and ByteCode verifier?
+
